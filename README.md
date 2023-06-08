@@ -7,3 +7,4 @@
    a. (Angular) For passing input from input boxes : to query window.
    b. (React) For Dispalying the final data to the user.
 4. Try to use open source learning models for free and unlimited use , combined with fast performance.
+5. One User Query -> Multiple GPT answers with comparisons (open source + paid )
